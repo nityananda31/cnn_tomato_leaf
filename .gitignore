@@ -1,0 +1,21 @@
+# Dataset & output
+tomato/
+__pycache__/
+*.h5
+*.hdf5
+*.pkl
+*.npy
+*.npz
+*.log
+*.csv
+
+# VSCode & sistem
+.vscode/
+.DS_Store
+*.tmp
+*.bak
+
+# Python environments
+venv/
+env/
+*.egg-info/
